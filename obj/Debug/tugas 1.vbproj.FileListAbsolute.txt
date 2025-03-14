@@ -9,3 +9,13 @@ C:\Users\Puspita\OneDrive\Documents\game\tugas 1\tugas 1\obj\Debug\tugas 1.xml
 C:\Users\Puspita\OneDrive\Documents\game\tugas 1\tugas 1\obj\Debug\tugas 1.pdb
 C:\Users\Puspita\OneDrive\Documents\game\tugas 1\tugas 1\obj\Debug\tugas_1.Form2.resources
 C:\Users\Puspita\OneDrive\Documents\game\tugas 1\tugas 1\obj\Debug\tugas_1.Form1.resources
+C:\Users\MARCELA\Downloads\tugas 1- marcella hayati\tugas 1- marcella hayati\bin\Debug\tugas 1.exe.config
+C:\Users\MARCELA\Downloads\tugas 1- marcella hayati\tugas 1- marcella hayati\obj\Debug\tugas 1.exe
+C:\Users\MARCELA\Downloads\tugas 1- marcella hayati\tugas 1- marcella hayati\obj\Debug\tugas 1.xml
+C:\Users\MARCELA\Downloads\tugas 1- marcella hayati\tugas 1- marcella hayati\obj\Debug\tugas 1.pdb
+C:\Users\MARCELA\Downloads\tugas 1- marcella hayati\tugas 1- marcella hayati\obj\Debug\tugas_1.Form1.resources
+C:\Users\MARCELA\Downloads\tugas 1- marcella hayati\tugas 1- marcella hayati\obj\Debug\tugas_1.Resources.resources
+C:\Users\MARCELA\Downloads\tugas 1- marcella hayati\tugas 1- marcella hayati\obj\Debug\tugas 1.vbproj.GenerateResource.Cache
+C:\Users\MARCELA\Downloads\tugas 1- marcella hayati\tugas 1- marcella hayati\bin\Debug\tugas 1.exe
+C:\Users\MARCELA\Downloads\tugas 1- marcella hayati\tugas 1- marcella hayati\bin\Debug\tugas 1.pdb
+C:\Users\MARCELA\Downloads\tugas 1- marcella hayati\tugas 1- marcella hayati\bin\Debug\tugas 1.xml
